@@ -1002,12 +1002,12 @@ footer form .btn{
         margin: 20px auto;
     }
     .cover h5 {
-        left: 25%;
+        /* left: 25%; */
         font-size: 20px;
     }
-    .cover.cover2 h5, .cover.cover4 h5 {
+    /* .cover.cover2 h5, .cover.cover4 h5 {
         right: 25%;
-    }
+    } */
     .banner .over {
         position: absolute;
         left: 0;
@@ -1175,10 +1175,10 @@ footer form .btn{
     }
 }
 @media only screen and (max-width: 425px) {
-    .cover.cover2 h5, .cover.cover4 h5 {
+    /* .cover.cover2 h5, .cover.cover4 h5 {
         right: 35%;
         bottom: 11%;
-    }
+    } */
 }
 
 /* end media query */
