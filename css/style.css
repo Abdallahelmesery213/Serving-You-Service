@@ -271,11 +271,7 @@ header .nav3 ul li:not(:last-child)::after {
     background-position: right;
     direction: rtl;
 }
-.cover.cover2 h5,
-.cover.cover4 h5 {
-    bottom: 50%;
-    /* right: 15%; */
-}
+
 .cover.cover3 h5 {
     bottom: 15%;
 }
