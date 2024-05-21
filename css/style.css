@@ -258,8 +258,8 @@ header .nav3 ul li:not(:last-child)::after {
 }
 .cover h5{
     position: absolute;
-    bottom: 50%;
-    /* left: 15%; */
+    top: 50%;
+    transform: translateY(-50%);
     font-size: 24px;
     line-height: 35px;
     font-weight: bold;
@@ -284,6 +284,18 @@ header .nav3 ul li:not(:last-child)::after {
 }
 .cover.cover2{
     background-image: url(./../images/img_4-03.jpg);
+}
+.cover.cover3{
+    background-image: url(./../images/img_5-03.jpg);
+}
+.cover.cover4{
+    background-image: url(./../images/img_6-03.jpg);
+}
+.cover.cover5{
+    background-image: url(./../images/img_7-03.jpg);
+}
+.cover.cover6{
+    background-image: url(./../images/img_8-03.jpg);
 }
 
 /* start banners */
