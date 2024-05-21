@@ -932,6 +932,10 @@ footer form .btn{
         font-size: 18px;
         width: 100%;
     }
+    .serves .box {
+        width: 120px;
+        height: 90px;
+    }
 }
 @media only screen and (max-width: 991px) {
     .counter h2 {
@@ -1057,6 +1061,16 @@ footer form .btn{
     .banner .banner-text h6{
         text-align: center;
     }
+    .serves .box {
+        width: 200px;
+        margin-bottom: 25px;
+    }
+    .serves h4 {
+        margin: 3% 0;
+    }
+    .cover {
+        height: 220px;
+    }
     /* end banners */
     /* start section2 */
     .section2 .section-text {
@@ -1180,6 +1194,11 @@ footer form .btn{
     }
     header .right-part .nav1 p {
         font-size: 14px;
+    }
+}
+@media only screen and (max-width: 447px) {
+    .serves .box {
+        margin: 10px auto;
     }
 }
 @media only screen and (max-width: 425px) {
